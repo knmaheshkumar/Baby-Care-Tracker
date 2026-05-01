@@ -1,5 +1,6 @@
 {
   "expo": {
+    "cli": { "appVersionSource": "remote" },
     "name": "baby-care-tracker",
     "slug": "snack-33ab13d5-86c4-4dbb-aca1-830f84611622",
     "version": "1.0.0",
