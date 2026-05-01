@@ -2,6 +2,11 @@
   "expo": {
     "cli": { "appVersionSource": "remote" },
     "name": "baby-care-tracker",
+    "extra": {
+      "eas": {
+        "projectId": "8e70e025-8cc7-4ddc-9cc4-4c22c464bdda"
+      }
+    },
     "slug": "snack-33ab13d5-86c4-4dbb-aca1-830f84611622",
     "version": "1.0.0",
     "orientation": "portrait",
